@@ -17,3 +17,16 @@ a {
     width: 30px;
     margin: 15px;
 }
+
+.header{
+    display:flex;
+    justify-content:space-around;
+}
+.gallery{
+    display:flex;
+    justify-content:space-around;
+}
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
